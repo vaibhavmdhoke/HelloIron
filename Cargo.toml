@@ -1,0 +1,10 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+authors = ["vaibhav-dhoke"]
+
+[dependencies]
+iron = "*"
+router = "*"
+
+
